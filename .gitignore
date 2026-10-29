@@ -1,2 +1,4 @@
 .DS_Store
 /sensors/build-info/acoupi/program.json
+website-build/agents.md
+website-build/architecture-notes.md
